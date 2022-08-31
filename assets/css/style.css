@@ -48,14 +48,12 @@
   }
   
   #filePhoto {
-    position: absolute;
     opacity: 0;
     cursor: pointer;
-    left: 0;
-    right: 0;
-    width: 100%;
-    top: 0;
-    bottom: 0;
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    
   }
   
 
